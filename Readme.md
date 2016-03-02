@@ -5,3 +5,6 @@ This is completely Team Pastas work without any of my involvement. I only starte
 
 ### What is this good for?
 This is a minimalic CFW for the Nintendo 3DS console. It works only via Homebrew Launcher on Firmware versions <= 9.2. It has no EmuNAND, no unneccesary patches, no nothing except signature patching. This is not meant for daily use, but rather for some specific operations.
+
+### Why did I [Way310] Fork this?
+I have no idea...
